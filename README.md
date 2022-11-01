@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guylherme Duarte! 🖐️
+## Olá! Eu sou o Guylherme Duarte! 🖐️
 
 - 🔭 Hoje trabalho com Suporte Técnico
 - 🌱 Estudando JavaScript
