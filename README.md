@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guylhermed/86e84ef28424b6eb5fb04be128171b9f/raw/a91e82064fdc8a3f60e8b21dc7a3fb804cbae790/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Guylherme Duarte!</h1>
+<h1 align="left">Olá, eu sou Guylherme Duarte!</h1>
 
 - 🔥 Focado em aprender novidades e superar desafios a cada dia
 
