@@ -7,9 +7,7 @@
 - 🎨 Designer gráfico desde 2011
 - 👨‍💻 Procuro melhorar meus projetos e estudos aqui publicados, conforme vou adquirindo conhecimento
 - ⚡ Jiu-jitsu, música e jogos digitais tem meu apreço 😝
-
 <br><br>
-
 ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -18,18 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guylhermed&show_icons=true&theme=vision-friendly-dark" alt="guylhermed's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermed&layout=compact&theme=vision-friendly-dark" alt="guylhermed's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Contato
 
 <p align="left" style="background:yellow">
