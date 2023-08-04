@@ -9,7 +9,7 @@
 
 - 👨‍💻 Procuro melhorar meus projetos e estudos aqui publicados, conforme vou adquirindo conhecimento
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Dart + Flutter
 
 - ⚡ Jiu-jitsu, música e jogos digitais tem meu apreço 😝
 
