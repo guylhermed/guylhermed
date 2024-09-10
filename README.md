@@ -1,12 +1,9 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guylhermed/86e84ef28424b6eb5fb04be128171b9f/raw/a91e82064fdc8a3f60e8b21dc7a3fb804cbae790/githubcard.svg"/>
 <h1 align="left">Olá, eu sou o Guylherme Duarte!</h1>
 
-- 🌱 Estudando Dart + Flutter
-- 🔥 Focado em aprender novidades e superar desafios a cada dia
-- 🔭 Trabalhei como analista de Tecnologia da Informação na [Lialine](https://br.linkedin.com/company/lia-line-cal%C3%A7ados)
-- 🎨 Designer gráfico desde 2011
-- 👨‍💻 Procuro melhorar meus projetos e estudos aqui publicados, conforme vou adquirindo conhecimento
-- ⚡ Jiu-jitsu, música e jogos digitais tem meu apreço 😝
+- Desenvolvedor Mobile
+- Flutter
+- Graduando Análise e Desenvolvimento de Software
 <br><br>
 ## 🛠 &nbsp;Tecnologias
 
