@@ -3,7 +3,7 @@
 
 - Desenvolvedor Mobile
 - Flutter
-- Graduando Análise e Desenvolvimento de Software
+- Graduando Engenharia de Software
 <br><br>
 ## 🛠 &nbsp;Tecnologias
 
