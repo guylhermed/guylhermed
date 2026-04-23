@@ -1,32 +1,70 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guylhermed/86e84ef28424b6eb5fb04be128171b9f/raw/a91e82064fdc8a3f60e8b21dc7a3fb804cbae790/githubcard.svg"/>
-<h1 align="left">Olá, eu sou o Guylherme Duarte!</h1>
+# Guylherme Neves Duarte
+Desenvolvedor de Software | Web, Mobile e Arquitetura Front-end
 
-- Desenvolvedor Mobile
+## Sobre
+
+Atuo na construção de aplicações web e mobile, com foco em arquitetura front-end, experiência do usuário e integração com APIs.
+
+Tenho experiência prática em produtos reais com múltiplos fluxos, regras de negócio, persistência local, sincronização de dados e publicação de apps em produção.
+
+Meu perfil combina execução, adaptação rápida e atenção ao impacto técnico das decisões no produto como um todo.
+
+## Stack principal
+
+**Mobile**
+
+- React Native
 - Flutter
-- Graduando Engenharia de Software
-<br><br>
-## 🛠 &nbsp;Tecnologias
+- Ionic / Cordova
+- Publicação na Google Play e App Store
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+**Frontend**
 
-<br><br>
-## 👨🏽‍🦲 &nbsp;Contato
+- React
+- Next.js
+- Angular
+- TypeScript
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/guylhermed" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-guylhermed-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/guylhermed" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-guylhermed-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.behance.net/guylhermed" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-guylhermed-05122A?style=flat&logo=behance" alt="youtube"/>
-</a>
-</p>
+**Backend e integrações**
+
+- Node.js
+- APIs REST
+- Autenticação
+- Integração com serviços externos
+
+**Dados e infraestrutura**
+
+- PostgreSQL
+- MySQL
+- Firebase / Firestore
+- Vercel
+- AWS S3 / DigitalOcean
+
+**Arquitetura e qualidade**
+
+- Modularização e aplicações em camadas
+- Offline-first, cache local e sincronização
+- Debug, validação de regras de negócio e análise de falhas
+- Git, GitFlow e CI/CD
+
+## Experiência prática
+
+- Desenvolvimento de apps mobile com autenticação, progresso de usuário, persistência local e integração contínua com backend.
+- Estruturação de soluções offline-first com cache, validação, atualização e sincronização de dados para uso em cenários reais.
+- Construção de interfaces web e mobile conectadas a regras de negócio, APIs REST e sistemas externos.
+- Evolução e refatoração de arquitetura mobile, incluindo adaptação de stack conforme crescimento do produto.
+- Condução de funcionalidades com baixa definição inicial, estruturando soluções completas a partir de problemas pouco especificados.
+- Atuação próxima a produto, QA e backend para fechar comportamento, validar cenários e reduzir regressões.
+
+## Como eu trabalho
+
+- Começo pelo problema de produto, pelo fluxo do usuário e pelos impactos no sistema antes de entrar na implementação.
+- Prefiro entregas incrementais, bem organizadas e fáceis de evoluir, em vez de soluções grandes demais para o contexto.
+- Tenho atenção a estados, dados, edge cases e impacto das decisões na consistência e evolução do sistema.
+- Uso IA, incluindo Codex, para acelerar documentação, investigação técnica, organização de arquitetura e tarefas repetitivas.
+- Trago uma base anterior em design, UI e suporte técnico, o que ajuda na leitura de usabilidade, operação e impacto real da solução.
+
+## Contato
+
+- GitHub: [github.com/guylhermed](https://github.com/guylhermed)
+- LinkedIn: [linkedin.com/in/guylhermed](https://www.linkedin.com/in/guylhermed/)
