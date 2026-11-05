@@ -1,70 +1,30 @@
 # Guylherme Neves Duarte
-Desenvolvedor de Software | Web, Mobile e Arquitetura Front-end
 
-## Sobre
+**Desenvolvedor de Software | Web, Mobile e Full Stack**
 
-Atuo na construção de aplicações web e mobile, com foco em arquitetura front-end, experiência do usuário e integração com APIs.
+Construo aplicações conectando **experiência do usuário, regras de negócio e engenharia de software**. Tenho mais de três anos de experiência em desenvolvimento, com atuação da definição técnica à implementação, testes e evolução de produtos.
 
-Tenho experiência prática em produtos reais com múltiplos fluxos, regras de negócio, persistência local, sincronização de dados e publicação de apps em produção.
+Combino **autonomia técnica, visão de produto e bagagem em design/UI/UX** para transformar problemas pouco definidos em funcionalidades completas. Minha experiência inclui sistemas corporativos, aplicações mobile e um produto próprio que construí, publiquei e monetizei.
 
-Meu perfil combina execução, adaptação rápida e atenção ao impacto técnico das decisões no produto como um todo.
+## Experiência em destaque
 
-## Stack principal
+- **Desenvolvimento web e mobile:** atuação full stack em portais B2B, APIs e aplicativos, com cobrança recorrente, gestão de licenças e controle de acesso. Entregas que conectam interface, regras comerciais e consistência de dados.
+- **Produto próprio, do início à operação:** construção e monetização de uma aplicação com usuários e assinaturas reais, incluindo autenticação, pagamentos, testes automatizados e deploy. Experiência prática em decisões de arquitetura, produto e manutenção.
+- **Sistemas com regras de negócio complexas:** experiência com fluxos corporativos, integrações com ERP, sincronização offline, refatoração, internacionalização e publicação de aplicativos nas lojas.
 
-**Mobile**
+## Tecnologias
 
-- React Native
-- Flutter
-- Ionic / Cordova
-- Publicação na Google Play e App Store
+**Web:** React, Next.js, Angular, TypeScript e Stencil.js  
+**Mobile:** React Native, Flutter e Ionic  
+**Backend e dados:** Node.js, NestJS, Express, PostgreSQL e Prisma  
+**Qualidade e entrega:** Jest, testes de integração, Git, Docker e CI/CD
 
-**Frontend**
+## Como trabalho
 
-- React
-- Next.js
-- Angular
-- TypeScript
+- Investigo o problema, os fluxos do usuário e os impactos entre interface, API e dados antes de definir a solução.
+- Conduzo entregas incrementais em colaboração com produto, backend e QA, com atenção a testes, documentação e manutenção.
+- Integro **IA ao processo de engenharia**, mantendo responsabilidade pelas decisões técnicas, revisão de código e validação das entregas.
 
-**Backend e integrações**
+## Vamos conversar
 
-- Node.js
-- APIs REST
-- Autenticação
-- Integração com serviços externos
-
-**Dados e infraestrutura**
-
-- PostgreSQL
-- MySQL
-- Firebase / Firestore
-- Vercel
-- AWS S3 / DigitalOcean
-
-**Arquitetura e qualidade**
-
-- Modularização e aplicações em camadas
-- Offline-first, cache local e sincronização
-- Debug, validação de regras de negócio e análise de falhas
-- Git, GitFlow e CI/CD
-
-## Experiência prática
-
-- Desenvolvimento de apps mobile com autenticação, progresso de usuário, persistência local e integração contínua com backend.
-- Estruturação de soluções offline-first com cache, validação, atualização e sincronização de dados para uso em cenários reais.
-- Construção de interfaces web e mobile conectadas a regras de negócio, APIs REST e sistemas externos.
-- Evolução e refatoração de arquitetura mobile, incluindo adaptação de stack conforme crescimento do produto.
-- Condução de funcionalidades com baixa definição inicial, estruturando soluções completas a partir de problemas pouco especificados.
-- Atuação próxima a produto, QA e backend para fechar comportamento, validar cenários e reduzir regressões.
-
-## Como eu trabalho
-
-- Começo pelo problema de produto, pelo fluxo do usuário e pelos impactos no sistema antes de entrar na implementação.
-- Prefiro entregas incrementais, bem organizadas e fáceis de evoluir, em vez de soluções grandes demais para o contexto.
-- Tenho atenção a estados, dados, edge cases e impacto das decisões na consistência e evolução do sistema.
-- Uso IA, incluindo Codex, para acelerar documentação, investigação técnica, organização de arquitetura e tarefas repetitivas.
-- Trago uma base anterior em design, UI e suporte técnico, o que ajuda na leitura de usabilidade, operação e impacto real da solução.
-
-## Contato
-
-- GitHub: [github.com/guylhermed](https://github.com/guylhermed)
-- LinkedIn: [linkedin.com/in/guylhermed](https://www.linkedin.com/in/guylhermed/)
+[LinkedIn](https://www.linkedin.com/in/guylhermed/)
